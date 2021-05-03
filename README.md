@@ -1,3 +1,3 @@
 # academic_projects
 
-This Repository contains my individual 0r group academic Projects.
+This Repository contains my individual or group academic Projects.
